@@ -27,7 +27,7 @@ pip install -r requirements.txt
 You can run equilibrium calculations by providing input parameters in a dictionary format:
 
 ```python
-from equil2 import equilibrium_calculations
+from equil_3 import equilibrium_calculations
 
 A = {
     'pH': 7.4,
